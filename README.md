@@ -4,6 +4,15 @@ This repository is a **collection of [Cursor Agent Skills](https://cursor.com/do
 
 Skills here are organized by **phase of work**—from refining an idea through spec, planning, implementation, testing, review, CI, docs, and shipping—so you can attach the right process to the task at hand.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/WARNING-include%20disable--model--invocation%3A%20true%20in%20SKILL.md-critical?style=for-the-badge&labelColor=8B0000&color=crimson" alt="WARNING: include disable-model-invocation: true in SKILL.md YAML front matter"/>
+  <br />
+  <code>🔴⭕🔴⭕🔴⭕🔴⭕🔴</code>
+</p>
+
+> [!CAUTION]
+> **Every `SKILL.md` must include `disable-model-invocation: true` in its YAML front matter.** GitHub READMEs cannot show real flashing animation, so the red badge and circles above are the stand‑in for a “flashing red” alert. Omitting this line can cause skills to be auto-invoked in ways that do not match how they were written.
+
 ## What’s inside
 
 | Folder | Focus |
