@@ -32,6 +32,7 @@ Skills here are organized by **phase of work**—from refining an idea through s
 | `code-review-and-quality` | Review and quality |
 | `code-simplification` | Simplifying and tightening code |
 | `security-and-hardening` | Security considerations |
+| `okta-integration` | Okta as SAML 2.0 IdP (metadata, ACS, audience, flows) |
 | `performance-optimization` | Performance work |
 | `git-workflow-and-versioning` | Branches, commits, versioning |
 | `ci-cd-and-automation` | CI/CD and automation |
